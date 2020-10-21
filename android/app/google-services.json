@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "18008955879",
+    "firebase_url": "https://thumbrand-test.firebaseio.com",
+    "project_id": "thumbrand-test",
+    "storage_bucket": "thumbrand-test.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:18008955879:android:857594db4a2088ce603b42",
+        "android_client_info": {
+          "package_name": "id.daruanugerah.thumbrandtest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "18008955879-vtqt6edgominsbl33f7gfbb4bmks2na0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkON1sLFkZyuBUY0QVRzgm4SThHjq6MMM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "18008955879-vtqt6edgominsbl33f7gfbb4bmks2na0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
